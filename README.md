@@ -169,3 +169,5 @@ Hello. These are my MangoWC dotfiles.
 1.2: Installation
 
 Use git clone https://github.com/kantiankant/MangoWC-dotfiles, cd into MangoWC-btw and place and modify the scripts and configs however you want.
+
+(This is a dotfile set made for Arch. If you're using FreeBSD (Like I currently am), modify it to suit your needs.)
