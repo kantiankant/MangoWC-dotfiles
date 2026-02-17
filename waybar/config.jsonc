@@ -64,7 +64,7 @@
         "tooltip-format": "{timeTo}"
     },
   "custom/power": {
-    "format": "<span font='Symbols Nerd Font'>\uf30c</span>",
+    "format": "<span font='Symbols Nerd Font'>\uf303</span>",
     "on-click": "ghostty -e ~/.config/mango/waybar/scripts/fetcher.sh",
     "tooltip": false
 }
