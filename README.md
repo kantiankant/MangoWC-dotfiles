@@ -46,7 +46,7 @@ Hello. These are my MangoWC dotfiles.
 | `Super + W` | Kill focused window |
 | `Super + V` | Toggle floating |
 | `Super + F` | Toggle fullscreen |
-| `Alt + A` | Toggle maximise screen |
+| `Super + A` | Toggle maximise screen |
 | `Alt + Shift + F` | Toggle fake fullscreen |
 | `Super + G` | Toggle global |
 | `Super + I` | Minimise window |
