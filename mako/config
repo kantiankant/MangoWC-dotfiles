@@ -1,0 +1,47 @@
+# Appearance
+background-color=#1c1c1e26
+text-color=#ffffffff
+border-color=#ffffff14
+border-size=1
+border-radius=14
+
+# Layout
+width=640
+height=98
+margin=8
+padding=16
+
+# Position
+anchor=top-right
+
+# Typography
+font=SF Pro Display 14
+
+# Timing
+default-timeout=5000
+ignore-timeout=0
+
+# Icons
+max-icon-size=32
+max-visible=5
+
+# Urgency - low
+[urgency=low]
+background-color=#1c1c1e26
+text-color=#ffffff8c
+border-color=#ffffff14
+default-timeout=3000
+
+# Urgency - normal
+[urgency=normal]
+background-color=#1c1c1e26
+text-color=#ffffffff
+border-color=#ffffff14
+default-timeout=5000
+
+# Urgency - critical
+[urgency=critical]
+background-color=#1c1c1e40
+text-color=#ffffffff
+border-color=#ff3b3080
+default-timeout=0
