@@ -168,4 +168,4 @@ Hello. These are my MangoWC dotfiles.
 
 1.2: Installation
 
-Use git clone https://github.com/kantiankant/MangoWC-dotfiles, cd into MangoWC-btwm and place and modify the scripts and configs however you want.
+Use git clone https://github.com/kantiankant/MangoWC-dotfiles, cd into MangoWC-btw and place and modify the scripts and configs however you want.
